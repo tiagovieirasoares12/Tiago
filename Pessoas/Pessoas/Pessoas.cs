@@ -36,6 +36,16 @@ namespace Pessoas
 
                 ListaPessoas.Add(pessoa2);
 
+                Pessoas pessoa3 = new Pessoas
+                {
+                    IdPessoa = 3,
+                    NomePessoa = "Pessoa 3",
+                    EmailPessoa = "email3@email3.com",
+                    TelefonePessoa = "333333333"
+                };
+
+                ListaPessoas.Add(pessoa3);
+
                 return ListaPessoas;
 
             }
