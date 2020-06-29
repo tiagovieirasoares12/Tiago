@@ -6,7 +6,7 @@ namespace HelloWorld
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Exemplo de uso do GitHub com Visual Studio 2017!!!");
+            Console.WriteLine("Exemplo de uso do GitHub com Visual Studio 2019!!!");
             Console.ReadLine();
         }
     }
